@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[London After Midnight]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://gatsby-lam.vaporwavy.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 May 2020 06:42:14 GMT</lastBuildDate><item><title><![CDATA[Vaporwave]]></title><description><![CDATA[It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical…]]></description><link>https://gatsby-lam.vaporwavy.io/vaporwave/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/vaporwave/</guid><pubDate>Mon, 11 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical take on consumer capitalism and technoculture. Early incarnations of vaporwave relied on the sampling of sources such as Japanese city pop, smooth jazz, retro elevator music, R&amp;#x26;B, lounge music, and dance music from the 1980s and 1990s.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Skullkids]]></title><description><![CDATA[A creative group that designs and builds apps and games]]></description><link>https://skullkids.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 May 2020 05:58:18 GMT</lastBuildDate><item><title><![CDATA[Vaporwave]]></title><description><![CDATA[It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical…]]></description><link>https://skullkids.github.io/vaporwave/</link><guid isPermaLink="false">https://skullkids.github.io/vaporwave/</guid><pubDate>Mon, 11 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical take on consumer capitalism and technoculture. Early incarnations of vaporwave relied on the sampling of sources such as Japanese city pop, smooth jazz, retro elevator music, R&amp;#x26;B, lounge music, and dance music from the 1980s and 1990s.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;See the &lt;a href=&quot;https://en.wikipedia.org/wiki/Vaporwave&quot;&gt;Wikipedia&lt;/a&gt; for more information.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://gatsby-lam.vaporwavy.io/darkness/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://skullkids.github.io/darkness/</link><guid isPermaLink="false">https://skullkids.github.io/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
 &lt;p&gt;This is the final render.&lt;/p&gt;
 &lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
@@ -153,7 +153,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://gatsby-lam.vaporwavy.io/dont-stop/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/dont-stop/</guid><pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://skullkids.github.io/dont-stop/</link><guid isPermaLink="false">https://skullkids.github.io/dont-stop/</guid><pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
 &lt;p&gt;When I first started wearing pink, it wasn’t nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -250,7 +250,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[It's all blue]]></title><link>https://gatsby-lam.vaporwavy.io/its-all-blue/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/its-all-blue/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[It's all blue]]></title><link>https://skullkids.github.io/its-all-blue/</link><guid isPermaLink="false">https://skullkids.github.io/its-all-blue/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg&quot;
@@ -345,7 +345,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clean lines]]></title><link>https://gatsby-lam.vaporwavy.io/clean-lines/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/clean-lines/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clean lines]]></title><link>https://skullkids.github.io/clean-lines/</link><guid isPermaLink="false">https://skullkids.github.io/clean-lines/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg&quot;
@@ -536,7 +536,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://gatsby-lam.vaporwavy.io/all-spikes/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://skullkids.github.io/all-spikes/</link><guid isPermaLink="false">https://skullkids.github.io/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/071e2/charles-deluvio-695757-unsplash.jpg&quot;
@@ -727,7 +727,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Green]]></title><link>https://gatsby-lam.vaporwavy.io/green/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/green/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Green]]></title><link>https://skullkids.github.io/green/</link><guid isPermaLink="false">https://skullkids.github.io/green/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/dd82c627c6397daa9dacf5675967134b/071e2/chuttersnap-564286-unsplash.jpg&quot;
@@ -918,7 +918,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get fruity]]></title><link>https://gatsby-lam.vaporwavy.io/get-fruity/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/get-fruity/</guid><pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get fruity]]></title><link>https://skullkids.github.io/get-fruity/</link><guid isPermaLink="false">https://skullkids.github.io/get-fruity/</guid><pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/071e2/mike-dorner-173503-unsplash.jpg&quot;
@@ -1015,7 +1015,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The fur series]]></title><link>https://gatsby-lam.vaporwavy.io/fur/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/fur/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The fur series]]></title><link>https://skullkids.github.io/fur/</link><guid isPermaLink="false">https://skullkids.github.io/fur/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/a1ebbea943f183782485fb7212e283bb/071e2/charles-deluvio-540415-unsplash.jpg&quot;
@@ -1207,7 +1207,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-lam.vaporwavy.io/hi-folks/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://skullkids.github.io/hi-folks/</link><guid isPermaLink="false">https://skullkids.github.io/hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -1300,12 +1300,12 @@ to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
 for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsby-lam.vaporwavy.io/my-second-post/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+chicken eggs, though the…]]></description><link>https://skullkids.github.io/my-second-post/</link><guid isPermaLink="false">https://skullkids.github.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
 &lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.”?
 (&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-lam.vaporwavy.io/hello-world/</link><guid isPermaLink="false">https://gatsby-lam.vaporwavy.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://skullkids.github.io/hello-world/</link><guid isPermaLink="false">https://skullkids.github.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
